@@ -99,26 +99,26 @@ E12000005,West Midlands,8,"8. Process, plant and machine operatives",1,Female,29
 E12000005,West Midlands,8,"8. Process, plant and machine operatives",2,Male,196036
 E12000005,West Midlands,9,9. Elementary occupations,1,Female,145475
 E12000005,West Midlands,9,9. Elementary occupations,2,Male,178261
-E12000006,East of England,-8,Does not apply,1,Female,1787089
-E12000006,East of England,-8,Does not apply,2,Male,1519344
-E12000006,East of England,1,"1. Managers, directors and senior officials",1,Female,144141
-E12000006,East of England,1,"1. Managers, directors and senior officials",2,Male,269772
-E12000006,East of England,2,2. Professional occupations,1,Female,305290
-E12000006,East of England,2,2. Professional occupations,2,Male,288073
-E12000006,East of England,3,3. Associate professional and technical occupations,1,Female,199242
-E12000006,East of England,3,3. Associate professional and technical occupations,2,Male,203778
-E12000006,East of England,4,4. Administrative and secretarial occupations,1,Female,234534
-E12000006,East of England,4,4. Administrative and secretarial occupations,2,Male,62776
-E12000006,East of England,5,5. Skilled trades occupations,1,Female,31822
-E12000006,East of England,5,5. Skilled trades occupations,2,Male,291800
-E12000006,East of England,6,"6. Caring, leisure and other service occupations",1,Female,223253
-E12000006,East of England,6,"6. Caring, leisure and other service occupations",2,Male,51549
-E12000006,East of England,7,7. Sales and customer service occupations,1,Female,134479
-E12000006,East of England,7,7. Sales and customer service occupations,2,Male,78423
-E12000006,East of England,8,"8. Process, plant and machine operatives",1,Female,27786
-E12000006,East of England,8,"8. Process, plant and machine operatives",2,Male,181458
-E12000006,East of England,9,9. Elementary occupations,1,Female,140461
-E12000006,East of England,9,9. Elementary occupations,2,Male,160004
+E12000006,East,-8,Does not apply,1,Female,1787089
+E12000006,East,-8,Does not apply,2,Male,1519344
+E12000006,East,1,"1. Managers, directors and senior officials",1,Female,144141
+E12000006,East,1,"1. Managers, directors and senior officials",2,Male,269772
+E12000006,East,2,2. Professional occupations,1,Female,305290
+E12000006,East,2,2. Professional occupations,2,Male,288073
+E12000006,East,3,3. Associate professional and technical occupations,1,Female,199242
+E12000006,East,3,3. Associate professional and technical occupations,2,Male,203778
+E12000006,East,4,4. Administrative and secretarial occupations,1,Female,234534
+E12000006,East,4,4. Administrative and secretarial occupations,2,Male,62776
+E12000006,East,5,5. Skilled trades occupations,1,Female,31822
+E12000006,East,5,5. Skilled trades occupations,2,Male,291800
+E12000006,East,6,"6. Caring, leisure and other service occupations",1,Female,223253
+E12000006,East,6,"6. Caring, leisure and other service occupations",2,Male,51549
+E12000006,East,7,7. Sales and customer service occupations,1,Female,134479
+E12000006,East,7,7. Sales and customer service occupations,2,Male,78423
+E12000006,East,8,"8. Process, plant and machine operatives",1,Female,27786
+E12000006,East,8,"8. Process, plant and machine operatives",2,Male,181458
+E12000006,East,9,9. Elementary occupations,1,Female,140461
+E12000006,East,9,9. Elementary occupations,2,Male,160004
 E12000007,London,-8,Does not apply,1,Female,2421691
 E12000007,London,-8,Does not apply,2,Male,2017960
 E12000007,London,1,"1. Managers, directors and senior officials",1,Female,244920
