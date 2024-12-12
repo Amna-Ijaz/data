@@ -3,139 +3,138 @@ E12000001,North East,-8,Does not apply,1,Female,227922
 E12000001,North East,-8,Does not apply,2,Male,240131
 E12000001,North East,0,No qualifications,1,Female,250670
 E12000001,North East,0,No qualifications,2,Male,191709
-E12000001,North East,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,113409
-E12000001,North East,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,95510
-E12000001,North East,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,169401
-E12000001,North East,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,132247
-E12000001,North East,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,199044
-E12000001,North East,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,205373
-E12000001,North East,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,330320
-E12000001,North East,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,292099
-E12000001,North East,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,62852
-E12000001,North East,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,136326
+E12000001,North East,1,"Level 1 and entry level qualifications",1,Female,113409
+E12000001,North East,1,"Level 1 and entry level qualifications",2,Male,95510
+E12000001,North East,2,"Level 2 qualifications",1,Female,169401
+E12000001,North East,2,"Level 2 qualifications",2,Male,132247
+E12000001,North East,3,"Level 3 qualifications",2,Male,205373
+E12000001,North East,4,"Level 4 qualifications or above",1,Female,330320
+E12000001,North East,4,"Level 4 qualifications or above",2,Male,292099
+E12000001,North East,5,"Other",1,Female,62852
+E12000001,North East,5,"Other",2,Male,136326
 E12000002,North West,-8,Does not apply,1,Female,678439
 E12000002,North West,-8,Does not apply,2,Male,713323
 E12000002,North West,0,No qualifications,1,Female,639042
 E12000002,North West,0,No qualifications,2,Male,535657
-E12000002,North West,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,310046
-E12000002,North West,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,273037
-E12000002,North West,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,452493
-E12000002,North West,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,366640
-E12000002,North West,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,529391
-E12000002,North West,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,532558
-E12000002,North West,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,995779
-E12000002,North West,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,884270
-E12000002,North West,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,172066
-E12000002,North West,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,334655
+E12000002,North West,1,"Level 1 and entry level qualifications",1,Female,310046
+E12000002,North West,1,"Level 1 and entry level qualifications",2,Male,273037
+E12000002,North West,2,"Level 2 qualifications",1,Female,452493
+E12000002,North West,2,"Level 2 qualifications",2,Male,366640
+E12000002,North West,3,"Level 3 qualifications",1,Female,529391
+E12000002,North West,3,"Level 3 qualifications",2,Male,532558
+E12000002,North West,4,"Level 4 qualifications or above",1,Female,995779
+E12000002,North West,4,"Level 4 qualifications or above",2,Male,884270
+E12000002,North West,5,"Other",1,Female,172066
+E12000002,North West,5,"Other",2,Male,334655
 E12000003,Yorkshire and The Humber,-8,Does not apply,1,Female,498231
 E12000003,Yorkshire and The Humber,-8,Does not apply,2,Male,522244
 E12000003,Yorkshire and The Humber,0,No qualifications,1,Female,504250
 E12000003,Yorkshire and The Humber,0,No qualifications,2,Male,415390
-E12000003,Yorkshire and The Humber,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,239836
-E12000003,Yorkshire and The Humber,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,209229
-E12000003,Yorkshire and The Humber,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,336591
-E12000003,Yorkshire and The Humber,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,270805
-E12000003,Yorkshire and The Humber,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,381521
-E12000003,Yorkshire and The Humber,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,395549
-E12000003,Yorkshire and The Humber,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,699567
-E12000003,Yorkshire and The Humber,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,615888
-E12000003,Yorkshire and The Humber,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,131688
-E12000003,Yorkshire and The Humber,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,259983
+E12000003,Yorkshire and The Humber,1,"Level 1 and entry level qualifications",1,Female,239836
+E12000003,Yorkshire and The Humber,1,"Level 1 and entry level qualifications",2,Male,209229
+E12000003,Yorkshire and The Humber,2,"Level 2 qualifications",1,Female,336591
+E12000003,Yorkshire and The Humber,2,"Level 2 qualifications",2,Male,270805
+E12000003,Yorkshire and The Humber,3,"Level 3 qualifications",1,Female,381521
+E12000003,Yorkshire and The Humber,3,"Level 3 qualifications",2,Male,395549
+E12000003,Yorkshire and The Humber,4,"Level 4 qualifications or above",1,Female,699567
+E12000003,Yorkshire and The Humber,4,"Level 4 qualifications or above",2,Male,615888
+E12000003,Yorkshire and The Humber,5,"Other",1,Female,131688
+E12000003,Yorkshire and The Humber,5,"Other",2,Male,259983
 E12000004,East Midlands,-8,Does not apply,1,Female,430258
 E12000004,East Midlands,-8,Does not apply,2,Male,451751
 E12000004,East Midlands,0,No qualifications,1,Female,425868
 E12000004,East Midlands,0,No qualifications,2,Male,353038
-E12000004,East Midlands,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,219680
-E12000004,East Midlands,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,195404
-E12000004,East Midlands,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,305594
-E12000004,East Midlands,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,250452
-E12000004,East Midlands,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,361779
-E12000004,East Midlands,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,369592
-E12000004,East Midlands,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,611623
-E12000004,East Midlands,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,552161
-E12000004,East Midlands,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,123063
-E12000004,East Midlands,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,229791
+E12000004,East Midlands,1,"Level 1 and entry level qualifications",1,Female,219680
+E12000004,East Midlands,1,"Level 1 and entry level qualifications",2,Male,195404
+E12000004,East Midlands,2,"Level 2 qualifications",1,Female,305594
+E12000004,East Midlands,2,"Level 2 qualifications",2,Male,250452
+E12000004,East Midlands,3,"Level 3 qualifications",1,Female,361779
+E12000004,East Midlands,3,"Level 3 qualifications",2,Male,369592
+E12000004,East Midlands,4,"Level 4 qualifications or above",1,Female,611623
+E12000004,East Midlands,4,"Level 4 qualifications or above",2,Male,552161
+E12000004,East Midlands,5,"Other",1,Female,123063
+E12000004,East Midlands,5,"Other",2,Male,229791
 E12000005,West Midlands,-8,Does not apply,1,Female,560586
 E12000005,West Midlands,-8,Does not apply,2,Male,588842
 E12000005,West Midlands,0,No qualifications,1,Female,543892
 E12000005,West Midlands,0,No qualifications,2,Male,471408
-E12000005,West Midlands,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,256741
-E12000005,West Midlands,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,237969
-E12000005,West Midlands,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,361676
-E12000005,West Midlands,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,305022
-E12000005,West Midlands,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,412130
-E12000005,West Midlands,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,406843
-E12000005,West Midlands,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,748564
-E12000005,West Midlands,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,665159
-E12000005,West Midlands,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,139604
-E12000005,West Midlands,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,252321
+E12000005,West Midlands,1,"Level 1 and entry level qualifications",1,Female,256741
+E12000005,West Midlands,1,"Level 1 and entry level qualifications",2,Male,237969
+E12000005,West Midlands,2,"Level 2 qualifications",1,Female,361676
+E12000005,West Midlands,2,"Level 2 qualifications",2,Male,305022
+E12000005,West Midlands,3,"Level 3 qualifications",1,Female,412130
+E12000005,West Midlands,3,"Level 3 qualifications",2,Male,406843
+E12000005,West Midlands,4,"Level 4 qualifications or above",1,Female,748564
+E12000005,West Midlands,4,"Level 4 qualifications or above",2,Male,665159
+E12000005,West Midlands,5,"Other",1,Female,139604
+E12000005,West Midlands,5,"Other",2,Male,252321
 E12000006,East,-8,Does not apply,1,Female,578488
 E12000006,East,-8,Does not apply,2,Male,608301
 E12000006,East,0,No qualifications,1,Female,506909
 E12000006,East,0,No qualifications,2,Male,425303
-E12000006,East,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,297069
-E12000006,East,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,257907
-E12000006,East,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,410953
-E12000006,East,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,331658
-E12000006,East,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,426614
-E12000006,East,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,436548
-E12000006,East,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,851469
-E12000006,East,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,773907
-E12000006,East,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,156594
-E12000006,East,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,273353
+E12000006,East,1,"Level 1 and entry level qualifications",1,Female,297069
+E12000006,East,1,"Level 1 and entry level qualifications",2,Male,257907
+E12000006,East,2,"Level 2 qualifications",1,Female,410953
+E12000006,East,2,"Level 2 qualifications",2,Male,331658
+E12000006,East,3,"Level 3 qualifications",1,Female,426614
+E12000006,East,3,"Level 3 qualifications",2,Male,436548
+E12000006,East,4,"Level 4 qualifications or above",1,Female,851469
+E12000006,East,4,"Level 4 qualifications or above",2,Male,773907
+E12000006,East,5,"Other",1,Female,156594
+E12000006,East,5,"Other",2,Male,273353
 E12000007,London,-8,Does not apply,1,Female,830047
 E12000007,London,-8,Does not apply,2,Male,865696
 E12000007,London,0,No qualifications,1,Female,615293
 E12000007,London,0,No qualifications,2,Male,535957
-E12000007,London,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,286270
-E12000007,London,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,258999
-E12000007,London,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,372503
-E12000007,London,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,335015
-E12000007,London,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,476776
-E12000007,London,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,461099
-E12000007,London,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,1756247
-E12000007,London,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,1560582
-E12000007,London,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,194486
-E12000007,London,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,250758
+E12000007,London,1,"Level 1 and entry level qualifications",1,Female,286270
+E12000007,London,1,"Level 1 and entry level qualifications",2,Male,258999
+E12000007,London,2,"Level 2 qualifications",1,Female,372503
+E12000007,London,2,"Level 2 qualifications",2,Male,335015
+E12000007,London,3,"Level 3 qualifications",1,Female,476776
+E12000007,London,3,"Level 3 qualifications",2,Male,461099
+E12000007,London,4,"Level 4 qualifications or above",1,Female,1756247
+E12000007,London,4,"Level 4 qualifications or above",2,Male,1560582
+E12000007,London,5,"Other",1,Female,194486
+E12000007,London,5,"Other",2,Male,250758
 E12000008,South East,-8,Does not apply,1,Female,838913
 E12000008,South East,-8,Does not apply,2,Male,884572
 E12000008,South East,0,No qualifications,1,Female,636142
 E12000008,South East,0,No qualifications,2,Male,526077
-E12000008,South East,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,397684
-E12000008,South East,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,341438
-E12000008,South East,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,580421
-E12000008,South East,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,466379
-E12000008,South East,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,655077
-E12000008,South East,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,658475
-E12000008,South East,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,1407959
-E12000008,South East,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,1294089
-E12000008,South East,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,222629
-E12000008,South East,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,368208
+E12000008,South East,1,"Level 1 and entry level qualifications",1,Female,397684
+E12000008,South East,1,"Level 1 and entry level qualifications",2,Male,341438
+E12000008,South East,2,"Level 2 qualifications",1,Female,580421
+E12000008,South East,2,"Level 2 qualifications",2,Male,466379
+E12000008,South East,3,"Level 3 qualifications",1,Female,655077
+E12000008,South East,3,"Level 3 qualifications",2,Male,658475
+E12000008,South East,4,"Level 4 qualifications or above",1,Female,1407959
+E12000008,South East,4,"Level 4 qualifications or above",2,Male,1294089
+E12000008,South East,5,"Other",1,Female,222629
+E12000008,South East,5,"Other",2,Male,368208
 E12000009,South West,-8,Does not apply,1,Female,470995
 E12000009,South West,-8,Does not apply,2,Male,494351
 E12000009,South West,0,No qualifications,1,Female,408551
 E12000009,South West,0,No qualifications,2,Male,332632
-E12000009,South West,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,248827
-E12000009,South West,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,217143
-E12000009,South West,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,380583
-E12000009,South West,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,297697
-E12000009,South West,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,434930
-E12000009,South West,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,441677
-E12000009,South West,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,825716
-E12000009,South West,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,741058
-E12000009,South West,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,141949
-E12000009,South West,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,265077
+E12000009,South West,1,"Level 1 and entry level qualifications",1,Female,248827
+E12000009,South West,1,"Level 1 and entry level qualifications",2,Male,217143
+E12000009,South West,2,"Level 2 qualifications",1,Female,380583
+E12000009,South West,2,"Level 2 qualifications",2,Male,297697
+E12000009,South West,3,"Level 3 qualifications",1,Female,434930
+E12000009,South West,3,"Level 3 qualifications",2,Male,441677
+E12000009,South West,4,"Level 4 qualifications or above",1,Female,825716
+E12000009,South West,4,"Level 4 qualifications or above",2,Male,741058
+E12000009,South West,5,"Other",1,Female,141949
+E12000009,South West,5,"Other",2,Male,265077
 W92000004,Wales,-8,Does not apply,1,Female,267291
 W92000004,Wales,-8,Does not apply,2,Male,280787
 W92000004,Wales,0,No qualifications,1,Female,272251
 W92000004,Wales,0,No qualifications,2,Male,237431
-W92000004,Wales,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",1,Female,118892
-W92000004,Wales,1,"Level 1 and entry level qualifications: 1 to 4 GCSEs grade A* to C, Any GCSEs at other grades, O levels or CSEs (any grades), 1 AS level, NVQ level 1, Foundation GNVQ, Basic or Essential Skills",2,Male,104133
-W92000004,Wales,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",1,Female,206134
-W92000004,Wales,2,"Level 2 qualifications: 5 or more GCSEs (A* to C or 9 to 4), O levels (passes), CSEs (grade 1), School Certification, 1 A level, 2 to 3 AS levels, VCEs, Intermediate or Higher Diploma, Welsh Baccalaureate Intermediate Diploma, NVQ level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First or General Diploma, RSA Diploma",2,Male,161226
-W92000004,Wales,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",1,Female,215912
-W92000004,Wales,3,"Level 3 qualifications: 2 or more A levels or VCEs, 4 or more AS levels, Higher School Certificate, Progression or Advanced Diploma, Welsh Baccalaureate Advance Diploma, NVQ level 3; Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma",2,Male,224740
-W92000004,Wales,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",1,Female,436136
-W92000004,Wales,4,"Level 4 qualifications or above: degree (BA, BSc), higher degree (MA, PhD, PGCE), NVQ level 4 to 5, HNC, HND, RSA Higher Diploma, BTEC Higher level, professional qualifications (for example, teaching, nursing, accountancy)",2,Male,370637
-W92000004,Wales,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",1,Female,69874
-W92000004,Wales,5,"Other: apprenticeships, vocational or work-related qualifications, other qualifications achieved in England or Wales, qualifications achieved outside England or Wales (equivalent not stated or unknown)",2,Male,142050
+W92000004,Wales,1,"Level 1 and entry level qualifications",1,Female,118892
+W92000004,Wales,1,"Level 1 and entry level qualifications",2,Male,104133
+W92000004,Wales,2,"Level 2 qualifications",1,Female,206134
+W92000004,Wales,2,"Level 2 qualifications",2,Male,161226
+W92000004,Wales,3,"Level 3 qualifications",1,Female,215912
+W92000004,Wales,3,"Level 3 qualifications",2,Male,224740
+W92000004,Wales,4,"Level 4 qualifications or above",1,Female,436136
+W92000004,Wales,4,"Level 4 qualifications or above",2,Male,370637
+W92000004,Wales,5,"Other",1,Female,69874
+W92000004,Wales,5,"Other",2,Male,142050
